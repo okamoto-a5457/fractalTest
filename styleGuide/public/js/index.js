@@ -1,5 +1,5 @@
 $(function () {
-  $(".button01").on("click", function () {
+  $(".alert").on("click", function () {
     alert("clicked！");
   });
 });
